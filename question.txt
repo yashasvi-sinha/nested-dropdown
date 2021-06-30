@@ -1,0 +1,27 @@
+Download Zoho Creator. Develop a simple user interface that enables selection from a nested hierarchy of category, sub-category and products belonging to sub-categories.
+
+The developed screen will have - 
+1 dropdown that enables selection of categories. 
+2nd dropdown that allows selection of a subcategory from subcategories belonging to the category selected in (a) above.
+List of products belonging to subcategory selected in (b) above.
+
+An example data set is - 
+
+{
+“Fruit”:{
+“seasonal”:[{“name”:”Mango”,”price”:100},{“name”:”Pineapple”,”price”:70}],
+“all-year”:[{“name”:”banana”,”price”:150}],
+},
+“Vegetables”:{
+“Leafy”:[{“name”:”Spinach”,”price”:20},{“name”:”Methi”,”price”:20}],
+“Essentials”:[{“name”:”Onion”,”price”:35}],
+}
+}
+
+Your solution shall also have the necessary interface to edit, add category, subcategory and product data.
+
+The expected solution is a video of the solution. Video shall not be more than 120 seconds long. Hosted preferable on Google Drive.
+
+Good luck.
+
+To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash
